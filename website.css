@@ -1,0 +1,99 @@
+body{
+    background-image: url("./imagess/images/pic18...png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+
+p{
+    font-size: larger;
+}
+
+
+
+
+
+
+
+div {
+    width: 100%;
+    height: 700px;
+margin-top: 0px;
+    background-size: cover;
+
+    background-color: rgba(15, 1, 12, 0.708);
+
+    float: left;
+    color: rgb(rgba(11, 4, 11, 0.847));
+    padding: 10px;
+    font-size: medium white solid;
+    font-style: italic;
+   
+
+}
+.n2{
+    
+    background-image: url("./imagess/images/pic22.png");
+
+}
+.n3{
+    background-color: black;
+}
+
+.n4{
+    background-color: black;
+    
+    
+}
+.n5{
+    background-color: black;
+
+    
+}
+.n6{
+    background-color: rgb(5, 5, 42);
+    width: 100%;
+    height: 2000px;
+    
+}
+.n7{
+    background-color: rgb(132, 6, 250);
+    height: 100px;
+    width:75% ;
+    margin-left: 200px;
+}
+.n8{
+    background-color: rgb(132, 6, 250);
+    height: 100px;
+    width:75% ;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.n9{
+    background-color: rgb(132, 6, 250) ;
+    height: 100px;
+    width:75% ;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.n10{
+    background-color: rgb(5, 5, 42);
+    height: 100px;
+    width:75% ;
+    margin-left: 150px;
+    margin-top: 25px;
+}
+.n11{
+    background-color: rgb(5, 5, 42);
+    width:75%;
+    height: 100px;
+    margin-left:150px ;
+    margin-top: 25px;
+}
+.n11{
+    background-color: rgb(5, 5, 42);
+    width:75%;
+    height: 100px;
+    margin-left:150px ;
+    margin-top: 25px;
+}
